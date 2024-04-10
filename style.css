@@ -1,0 +1,33 @@
+header {
+    background-color: #003366; /* Dark blue background */
+    color: white; /* White text */
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none; /* Removes the bullet points */
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  nav li {
+    float: left; /* Aligns the list items horizontally */
+  }
+  
+  nav li a {
+    display: block;
+    color: white; /* White text for links */
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect for links */
+  nav li a:hover {
+    background-color: #555; /* Darker background on hover */
+  }
+  
+  body {
+    background-color: #add8e6; /* Light blue background */
+  }
