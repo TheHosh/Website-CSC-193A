@@ -3,6 +3,7 @@ header {
   background-size: cover;
   background-position: center;
   color: white;
+  padding: 40px 0; /* Increase padding to make the header taller */
 }
   
   nav ul {
