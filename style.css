@@ -31,3 +31,8 @@ header {
   body {
     background-color: #add8e6; /* Light blue background */
   }
+
+img {
+  width: 100%; /* Adjusts the width to fit the container */
+  height: auto; /* Maintains the aspect ratio */
+}
