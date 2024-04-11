@@ -1,8 +1,9 @@
 header {
-    background-color: #003366; /* Dark blue background */
-    color: white; /* White text */
-    padding: 20px;
-  }
+  background-image: url('https://preview.redd.it/i-make-a-super-earth-wallpaper-2k-i-cant-find-high-quality-v0-v44af18c4ujc1.png?width=2560&format=png&auto=webp&s=23a3371d23c2e0813be71afa24b2c0200fea7aff');
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
   
   nav ul {
     list-style-type: none; /* Removes the bullet points */
